@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/sourabha07-ai/MySql/tree/master/0704-binary-search) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sourabha07-ai/MySql/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sourabha07-ai/MySql/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sourabha07-ai/MySql/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sourabha07-ai/MySql/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sourabha07-ai/MySql/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/sourabha07-ai/MySql/tree/master/3536-maximum-product-of-two-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sourabha07-ai/MySql/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sourabha07-ai/MySql/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
