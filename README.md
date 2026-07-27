@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sourabha07-ai/MySql/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabha07-ai/MySql/tree/master/0628-maximum-product-of-three-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/sourabha07-ai/MySql/tree/master/2485-find-the-pivot-integer) |
