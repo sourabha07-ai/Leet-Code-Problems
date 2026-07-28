@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/sourabha07-ai/MySql/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourabha07-ai/MySql/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sourabha07-ai/MySql/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sourabha07-ai/MySql/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sourabha07-ai/MySql/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sourabha07-ai/MySql/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/sourabha07-ai/MySql/tree/master/0704-binary-search) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sourabha07-ai/MySql/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Database
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sourabha07-ai/MySql/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sourabha07-ai/MySql/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sourabha07-ai/MySql/tree/master/1260-shift-2d-grid) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sourabha07-ai/MySql/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
