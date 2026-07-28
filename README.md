@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabha07-ai/MySql/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourabha07-ai/MySql/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sourabha07-ai/MySql/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sourabha07-ai/MySql/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sourabha07-ai/MySql/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/sourabha07-ai/MySql/tree/master/2485-find-the-pivot-integer) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sourabha07-ai/MySql/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sourabha07-ai/MySql/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
