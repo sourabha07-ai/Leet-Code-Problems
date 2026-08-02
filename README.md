@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabha07-ai/MySql/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sourabha07-ai/MySql/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/sourabha07-ai/MySql/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sourabha07-ai/MySql/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/sourabha07-ai/MySql/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourabha07-ai/MySql/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sourabha07-ai/MySql/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/sourabha07-ai/MySql/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sourabha07-ai/MySql/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/sourabha07-ai/MySql/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sourabha07-ai/MySql/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
