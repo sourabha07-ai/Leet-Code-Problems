@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sourabha07-ai/MySql/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sourabha07-ai/MySql/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sourabha07-ai/MySql/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabha07-ai/MySql/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sourabha07-ai/MySql/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourabha07-ai/MySql/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sourabha07-ai/MySql/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/sourabha07-ai/MySql/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sourabha07-ai/MySql/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sourabha07-ai/MySql/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sourabha07-ai/MySql/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabha07-ai/MySql/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sourabha07-ai/MySql/tree/master/0877-stone-game) |
