@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sourabha07-ai/MySql/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sourabha07-ai/MySql/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/sourabha07-ai/MySql/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/sourabha07-ai/MySql/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sourabha07-ai/MySql/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sourabha07-ai/MySql/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sourabha07-ai/MySql/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sourabha07-ai/MySql/tree/master/1140-stone-game-ii) |
