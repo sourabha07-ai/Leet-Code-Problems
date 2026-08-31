@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sourabha07-ai/MySql/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sourabha07-ai/MySql/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourabha07-ai/MySql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sourabha07-ai/MySql/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sourabha07-ai/MySql/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourabha07-ai/MySql/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sourabha07-ai/MySql/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourabha07-ai/MySql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sourabha07-ai/MySql/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourabha07-ai/MySql/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourabha07-ai/MySql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sourabha07-ai/MySql/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sourabha07-ai/MySql/tree/master/0704-binary-search) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sourabha07-ai/MySql/tree/master/3501-maximize-active-section-with-trade-ii) |
