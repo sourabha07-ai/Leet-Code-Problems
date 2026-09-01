@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sourabha07-ai/MySql/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sourabha07-ai/MySql/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sourabha07-ai/MySql/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sourabha07-ai/MySql/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sourabha07-ai/MySql/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sourabha07-ai/MySql/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sourabha07-ai/MySql/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourabha07-ai/MySql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sourabha07-ai/MySql/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sourabha07-ai/MySql/tree/master/0704-binary-search) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sourabha07-ai/MySql/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sourabha07-ai/MySql/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
