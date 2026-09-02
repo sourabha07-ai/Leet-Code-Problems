@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourabha07-ai/MySql/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sourabha07-ai/MySql/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/sourabha07-ai/MySql/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sourabha07-ai/MySql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sourabha07-ai/MySql/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourabha07-ai/MySql/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sourabha07-ai/MySql/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sourabha07-ai/MySql/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/sourabha07-ai/MySql/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sourabha07-ai/MySql/tree/master/2213-longest-substring-of-one-repeating-character) |
