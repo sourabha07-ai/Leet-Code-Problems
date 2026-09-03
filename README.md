@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sourabha07-ai/MySql/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/sourabha07-ai/MySql/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sourabha07-ai/MySql/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sourabha07-ai/MySql/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sourabha07-ai/MySql/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sourabha07-ai/MySql/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sourabha07-ai/MySql/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabha07-ai/MySql/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourabha07-ai/MySql/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sourabha07-ai/MySql/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sourabha07-ai/MySql/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sourabha07-ai/MySql/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/sourabha07-ai/MySql/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sourabha07-ai/MySql/tree/master/2213-longest-substring-of-one-repeating-character) |
