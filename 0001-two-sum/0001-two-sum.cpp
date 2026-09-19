@@ -1,11 +1,15 @@
- class Solution {
+class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(vector<int>& arr, int target) {
+
         vector<int> ans(2);
 
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = i + 1; j < nums.size(); j++) {
-                if (nums[i] + nums[j] == target) {
+        size_t n = arr.size();
+
+        for(int i = 0; i < n; i++) {
+            for(int j = i + 1; j < n; j++) {
+
+                if(arr[i] + arr[j] == target) {
                     ans[0] = i;
                     ans[1] = j;
                     return ans;
