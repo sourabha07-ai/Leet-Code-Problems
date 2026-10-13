@@ -7,20 +7,36 @@ public:
 
         for (int i = 0; i < n; i++) {
             int freq[26] = {};
+            int countFreq[501] = {};
             int maxFreq = 0;
+            int minFreq = 0;
 
             for (int j = i; j < n; j++) {
                 int idx = s[j] - 'a';
-                freq[idx]++;
-                maxFreq = max(maxFreq, freq[idx]);
+                int oldFreq = freq[idx];
 
-                int minFreq = n;
-
-                for (int k = 0; k < 26; k++) {
-                    if (freq[k] > 0)
-                        minFreq = min(minFreq, freq[k]);
+                // Remove character from its old frequency bucket
+                if (oldFreq > 0) {
+                    countFreq[oldFreq]--;
                 }
 
+                // Increase its frequency
+                freq[idx]++;
+                int newFreq = freq[idx];
+                countFreq[newFreq]++;
+
+                // Update minimum frequency
+                if (oldFreq == 0) {
+                    minFreq = 1;
+                } else if (oldFreq == minFreq &&
+                           countFreq[oldFreq] == 0) {
+                    minFreq++;
+                }
+
+                // Update maximum frequency
+                maxFreq = max(maxFreq, newFreq);
+
+                // Add beauty
                 ans += maxFreq - minFreq;
             }
         }
