@@ -1,32 +1,34 @@
- 
-class Solution {
+ class Solution {
 public:
-    int beautySum(string s) {
-        int n = s.size();
-        int ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            int freq[26] = {};
-            int maxFreq = 0;
-
-            for (int j = i; j < n; j++) {
-                int idx = s[j] - 'a';
-                freq[idx]++;
-
-                if (freq[idx] > maxFreq)
-                    maxFreq = freq[idx];
-
-                int minFreq = n;
-
-                for (int k = 0; k < 26; k++) {
-                    if (freq[k] > 0 && freq[k] < minFreq)
-                        minFreq = freq[k];
+    int beauty(const std::vector<int> &mapy) {
+        int mf = INT_MIN; // max frequency
+        int lf = INT_MAX; // min frequency (excluding zeros)
+        
+        for(int i = 0; i < 26; i++) {
+            if(mapy[i] > 0) {
+                if(mapy[i] > mf) {
+                    mf = mapy[i];
                 }
-
-                ans += maxFreq - minFreq;
+                if(mapy[i] < lf) {
+                    lf = mapy[i];
+                }
             }
         }
+        
+        return (mf - lf);
+    }
 
-        return ans;
+    int beautySum(const std::string &s) {
+        int res = 0;
+        
+        for(int i = 0; i < s.length(); i++) {
+            std::vector<int> mapy(26, 0);
+            for(int j = i; j < s.length(); j++) {
+                mapy[s[j] - 'a']++;
+                res += beauty(mapy);
+            }
+        }
+        
+        return res;
     }
 };
