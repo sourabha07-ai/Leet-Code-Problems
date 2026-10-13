@@ -7,20 +7,23 @@ public:
 
         for (int i = 0; i < n; i++) {
             int freq[26] = {};
+            int maxFreq = 0;
 
             for (int j = i; j < n; j++) {
-                freq[s[j] - 'a']++;
+                int idx = s[j] - 'a';
+                freq[idx]++;
 
-                int mx = 0, mn = n;
+                if (freq[idx] > maxFreq)
+                    maxFreq = freq[idx];
+
+                int minFreq = n;
 
                 for (int k = 0; k < 26; k++) {
-                    if (freq[k] > 0) {
-                        mx = max(mx, freq[k]);
-                        mn = min(mn, freq[k]);
-                    }
+                    if (freq[k] > 0 && freq[k] < minFreq)
+                        minFreq = freq[k];
                 }
 
-                ans += mx - mn;
+                ans += maxFreq - minFreq;
             }
         }
 
