@@ -1,4 +1,4 @@
-
+ 
 class Solution {
 public:
     int beautySum(string s) {
@@ -7,37 +7,20 @@ public:
 
         for (int i = 0; i < n; i++) {
             int freq[26] = {};
-            int countFreq[501] = {};
-            int maxFreq = 0;
-            int minFreq = 0;
 
             for (int j = i; j < n; j++) {
-                int idx = s[j] - 'a';
-                int oldFreq = freq[idx];
+                freq[s[j] - 'a']++;
 
-                // Remove character from its old frequency bucket
-                if (oldFreq > 0) {
-                    countFreq[oldFreq]--;
+                int mx = 0, mn = n;
+
+                for (int k = 0; k < 26; k++) {
+                    if (freq[k] > 0) {
+                        mx = max(mx, freq[k]);
+                        mn = min(mn, freq[k]);
+                    }
                 }
 
-                // Increase its frequency
-                freq[idx]++;
-                int newFreq = freq[idx];
-                countFreq[newFreq]++;
-
-                // Update minimum frequency
-                if (oldFreq == 0) {
-                    minFreq = 1;
-                } else if (oldFreq == minFreq &&
-                           countFreq[oldFreq] == 0) {
-                    minFreq++;
-                }
-
-                // Update maximum frequency
-                maxFreq = max(maxFreq, newFreq);
-
-                // Add beauty
-                ans += maxFreq - minFreq;
+                ans += mx - mn;
             }
         }
 
