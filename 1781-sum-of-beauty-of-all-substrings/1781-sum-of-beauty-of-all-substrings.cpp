@@ -1,35 +1,32 @@
+ 
 class Solution {
 public:
     int beautySum(string s) {
-
         int n = s.size();
-        int sumOfBeauty = 0;
+        int ans = 0;
 
-        for ( int i=0; i<n; i++ ) {
+        for (int i = 0; i < n; i++) {
+            int freq[26] = {};
+            int maxFreq = 0;
 
-            vector<int> freq(26, 0);
+            for (int j = i; j < n; j++) {
+                int idx = s[j] - 'a';
+                freq[idx]++;
 
-            for ( int j=i; j<n; j++ ) {
+                if (freq[idx] > maxFreq)
+                    maxFreq = freq[idx];
 
-                freq[s[j] - 'a']++;
+                int minFreq = n;
 
-                int maxi = INT_MIN, mini = INT_MAX;
-
-                for ( int ch=0; ch<26; ch++ ) {
-
-                    int diff = freq[ch];
-
-                    if ( diff > 0 ) {
-                        maxi = max ( maxi, diff );
-                        mini = min ( mini, diff );
-                    }
+                for (int k = 0; k < 26; k++) {
+                    if (freq[k] > 0 && freq[k] < minFreq)
+                        minFreq = freq[k];
                 }
 
-                sumOfBeauty += (maxi - mini);
+                ans += maxFreq - minFreq;
             }
         }
 
-        return sumOfBeauty;
-
+        return ans;
     }
 };
