@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabha07-ai/MySql/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sourabha07-ai/MySql/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/sourabha07-ai/MySql/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sourabha07-ai/MySql/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sourabha07-ai/MySql/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sourabha07-ai/MySql/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabha07-ai/MySql/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
