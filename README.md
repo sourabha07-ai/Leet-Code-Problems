@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sourabha07-ai/MySql/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/sourabha07-ai/MySql/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/sourabha07-ai/MySql/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sourabha07-ai/MySql/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourabha07-ai/MySql/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sourabha07-ai/MySql/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/sourabha07-ai/MySql/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/sourabha07-ai/MySql/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sourabha07-ai/MySql/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sourabha07-ai/MySql/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sourabha07-ai/MySql/tree/master/3483-unique-3-digit-even-numbers) |
