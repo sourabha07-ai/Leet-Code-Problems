@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourabha07-ai/MySql/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sourabha07-ai/MySql/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourabha07-ai/MySql/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sourabha07-ai/MySql/tree/master/0027-remove-element) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourabha07-ai/MySql/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sourabha07-ai/MySql/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sourabha07-ai/MySql/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/sourabha07-ai/MySql/tree/master/0012-integer-to-roman) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourabha07-ai/MySql/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sourabha07-ai/MySql/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/sourabha07-ai/MySql/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/sourabha07-ai/MySql/tree/master/0396-rotate-function) |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sourabha07-ai/MySql/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sourabha07-ai/MySql/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
