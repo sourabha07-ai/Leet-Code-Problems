@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sourabha07-ai/MySql/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabha07-ai/MySql/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sourabha07-ai/MySql/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sourabha07-ai/MySql/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sourabha07-ai/MySql/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sourabha07-ai/MySql/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sourabha07-ai/MySql/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sourabha07-ai/MySql/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabha07-ai/MySql/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sourabha07-ai/MySql/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sourabha07-ai/MySql/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourabha07-ai/MySql/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sourabha07-ai/MySql/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sourabha07-ai/MySql/tree/master/3498-reverse-degree-of-a-string) |
