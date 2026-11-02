@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sourabha07-ai/MySql/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sourabha07-ai/MySql/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sourabha07-ai/MySql/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sourabha07-ai/MySql/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sourabha07-ai/MySql/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sourabha07-ai/MySql/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/sourabha07-ai/MySql/tree/master/3886-sum-of-sortable-integers) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabha07-ai/MySql/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sourabha07-ai/MySql/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sourabha07-ai/MySql/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sourabha07-ai/MySql/tree/master/3689-maximum-total-subarray-value-i) |
 ## Monotonic Stack
 |  |
 | ------- |
