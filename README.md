@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sourabha07-ai/MySql/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sourabha07-ai/MySql/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/sourabha07-ai/MySql/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/sourabha07-ai/MySql/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sourabha07-ai/MySql/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sourabha07-ai/MySql/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourabha07-ai/MySql/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sourabha07-ai/MySql/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourabha07-ai/MySql/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sourabha07-ai/MySql/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabha07-ai/MySql/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabha07-ai/MySql/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sourabha07-ai/MySql/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/sourabha07-ai/MySql/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/sourabha07-ai/MySql/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/sourabha07-ai/MySql/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/sourabha07-ai/MySql/tree/master/0486-predict-the-winner) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sourabha07-ai/MySql/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sourabha07-ai/MySql/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sourabha07-ai/MySql/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Indexed Tree
