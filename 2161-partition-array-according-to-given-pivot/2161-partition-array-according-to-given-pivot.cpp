@@ -1,19 +1,28 @@
 class Solution {
 public:
-    static vector<int> pivotArray(vector<int>& nums, int pivot) {
-        int n=nums.size();
-        if (n==1) return nums;
-        int R[n];
-        int l=0, r=0;
-        for(int x: nums){
-            nums[l]=R[r]=x;
-            l+=(x<pivot);
-            r+=(x>pivot);
+    vector<int> pivotArray(vector<int>& nums, int pivot) {
+        vector<int> smaller;
+
+        vector<int> equal;
+
+        vector<int> greater;
+
+        for (int num : nums) {
+            if (num < pivot) {
+                smaller.push_back(num);
+            }
+            else if (num == pivot) {
+                equal.push_back(num);
+            }
+            else {
+                greater.push_back(num);
+            }
         }
-        int m=n-r-l;
-        auto it_m=nums.begin()+l;
-        fill(it_m, it_m+m, pivot);
-        copy(R, R+r, it_m+m);
-        return nums;
+
+        smaller.insert(smaller.end(), equal.begin(), equal.end());
+
+        smaller.insert(smaller.end(), greater.begin(), greater.end());
+
+        return smaller;
     }
 };
