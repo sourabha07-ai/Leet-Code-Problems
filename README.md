@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sourabha07-ai/MySql/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sourabha07-ai/MySql/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/sourabha07-ai/MySql/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sourabha07-ai/MySql/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sourabha07-ai/MySql/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sourabha07-ai/MySql/tree/master/0069-sqrtx) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sourabha07-ai/MySql/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/sourabha07-ai/MySql/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sourabha07-ai/MySql/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sourabha07-ai/MySql/tree/master/3514-number-of-unique-xor-triplets-ii) |
